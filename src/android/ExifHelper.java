@@ -16,7 +16,7 @@
        specific language governing permissions and limitations
        under the License.
 */
-package org.apache.cordova.camera;
+package co.mwater.foregroundcameraplugin;
 
 import java.io.IOException;
 
