@@ -52,7 +52,7 @@
         <source-file src="src/android/CameraPreview.java" target-dir="src/co/mwater/foregroundcameraplugin" />
         <source-file src="src/android/ForegroundCameraLauncher.java" target-dir="src/co/mwater/foregroundcameraplugin" />
         <source-file src="src/android/ForegroundCameraPreview.java" target-dir="src/co/mwater/foregroundcameraplugin" />
-            <source-file src="src/android/ExifHelper.java" target-dir="src/org/apache/cordova/foregroundcameraplugin" />
+            <source-file src="src/android/ExifHelper.java" target-dir="src/co/mwater/foregroundcameraplugin" />
         <source-file src="src/android/foregroundcameraplugin.xml" target-dir="res/layout" />
 
         <js-module src="www/CameraPopoverHandle.js" name="CameraPopoverHandle">
